@@ -10,27 +10,27 @@ const Team = () => {
   const teamMembers = [
     {
       name: "Mantej Singh Arora",
-      role: "Project Management and Coordination",
+      role: "",
       image: mantej
     },
     {
       name: "Ishaan Sharma",
-      role: "Backend Development and Data Integration",
+      role: "",
       image: ishaan
     },
     {
       name: "Dhruv Pandey",
-      role: "Frontend Development and User Interface",
+      role: "",
       image: dhruv
     },
     {
       name: "Gagandeep",
-      role: "Data Processing and Model Optimization",
+      role: "",
       image: gagan
     },
     {
       name: "Ayush Saini",
-      role: "Testing and Quality Assurance",
+      role: "",
       image: ayush
     }
   ];
